@@ -2,7 +2,7 @@
 
 
 # apple_classification
-hello
+hello again
 A tutorial-based hackathon aims to classify bruised `B` from sound `S` apples using mache learning and feature reduction tools. In total, there are four tutorials, which can be listed as follows:
   1. [Data cleaning & visualization](https://github.com/Hack4Dev/apple_classification/blob/main/notebooks/tutorial1.ipynb)
   2. [Baseline Calculation](https://github.com/Hack4Dev/apple_classification/blob/main/notebooks/tutorial2.ipynb)
